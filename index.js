@@ -1,4 +1,4 @@
-// write your code here
+// This code is basically copied from the video
 const http = require('http');
 
 const server = http.createServer(function(req,res){
