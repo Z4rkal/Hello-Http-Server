@@ -1,1 +1,1 @@
-This will be a basic http server, still under construction
+This is just a simple http server that responds to GET requests with 'Hello World'

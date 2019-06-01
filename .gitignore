@@ -1,4 +1,4 @@
 *.log
 .vscode
 node_modules
-DS_School
+DS_Store
